@@ -22,7 +22,7 @@ on:
     - cron: 0 16 * * *
     
 env:
-  REPO_URL: https://github.com/zheshifandian/openwrt-ax1800
+  REPO_URL: https://github.com/mylucien/openwrt-ax1800
   REPO_BRANCH: stable
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
